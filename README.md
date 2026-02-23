@@ -2,18 +2,24 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/0xODanny" style="text-decoration:none;">
-    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-      <img src="./profile/stats.svg" style="height:180px; max-width:480px; width:100%;" />
-      <img src="./profile/top-langs.svg" style="height:180px; max-width:480px; width:100%;" />
-    </div>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xODanny">
+        <img src="./profile/stats.svg" height="180" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xODanny">
+        <img src="./profile/top-langs.svg" height="180" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top:10px;">
+<div align="center">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +33,7 @@
 
 <hr>
 
-<div align="center" style="margin-top:10px;">
+<div align="center">
   <a href="mailto:jamesgraynolds@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
