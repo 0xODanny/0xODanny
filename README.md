@@ -29,67 +29,84 @@
 
 ---
 
-## 🔒 Active Build — Avalanche Build Games 2026
+🔒 Active Build — Avalanche Build Games 2026
 
-Currently building for the Avalanche Build Games global builder competition.
+Currently building Red Pepe Arcade for the Avalanche Build Games global competition.
 
-A six-week accelerated program focused on turning new ideas into working products on Avalanche with mentorship, structured milestones, and live final showcase.
+A six-week sprint to take a product from idea → playable system → real users → monetization — with a live final showcase.
 
-The program guides builders from concept → prototype → product → go-to-market strategy → live judging.
+This is not just a prototype.
+This is the foundation of a live arcade ecosystem.
 
----
+⸻
 
-### 🧪 Development Scope (Private)
+🧪 Development Scope (Private)
 
-Work is being developed in private repositories during the competition cycle.
+All work is currently being developed in private repositories during the competition.
 
-Current areas of focus include:
+Core focus areas:
 
-• Real-time interactive systems running on Avalanche  
-• On-chain game state mechanics and event tracking  
-• Modular gameplay architecture designed for rapid iteration  
-• Persistent player progression structures  
-• Token-aware reward logic and interaction loops  
-• High-frequency event processing and synchronization  
-• Deterministic simulation layers  
-• Performance-optimized browser rendering pipelines  
-• Network-efficient multiplayer state handling  
-• Scalable session lifecycle management  
-• Cross-component data orchestration  
-• Prototype gameplay systems under live testing  
+• Browser-based retro arcade platform (multi-game system)
+• Real-time gameplay loops with competitive mechanics
+• Ranked leaderboards and tournament systems
+• GamePass + dual payment infrastructure (AVAX + PIX)
+• Web2 onboarding via frictionless payments (Brazil focus)
+• Token-aware reward systems ($RPEPE / ecosystem integration)
+• Modular game architecture for rapid game deployment
+• Lightweight, performant rendering pipelines (instant play)
+• Session-based multiplayer and score validation
+• Anti-cheat and deterministic scoring systems
+• Scalable backend for concurrent gameplay sessions
+• Live iteration through active playtesting
 
----
+⸻
 
-### ⚙ Build Structure
+⚙ Build Structure
 
-Development follows milestone-based delivery:
+Development is executed in fast, outcome-driven milestones:
 
-• Concept validation and pitch  
-• Functional prototype / MVP  
-• Product direction and growth planning  
-• Final live demonstration  
+• Concept → validated through playable demos
+• MVP → live, usable, and monetized
+• System expansion → more games, more loops
+• Go-to-market → Web3 + Web2 user acquisition
+• Final showcase → working arcade with real users
 
----
+⸻
 
-### 📊 Private Activity Metrics
+📊 Private Activity Metrics
 
-• Continuous development across multiple private repositories  
-• Ongoing daily commit activity  
-• Active prototype iteration cycles  
-• Internal play-testing and system validation  
-• Production-oriented architecture experimentation  
+• Daily commits across multiple private repositories
+• Rapid iteration cycles (game + platform layers)
+• Active gameplay testing and balancing
+• Payment system integration and validation
+• Infrastructure built for scale, not just demo
 
-Contribution totals shown above include private repository work.
+Contribution metrics include private repository activity.
 
----
+⸻
 
-### 🎯 Objective
+🌎 Strategic Direction
 
-Ship a working product within the competition window and continue development beyond the program as a long-term project within the Avalanche ecosystem.
+While most builders compete for the same Web3 users,
+this project expands outward.
 
----
+• Bringing Web2 users into Avalanche through games
+• Removing friction via familiar payment systems (PIX)
+• Turning casual players into on-chain participants
+• Building a sustainable arcade economy, not a one-off game
 
-⚠ Source code remains private during active competition phase.
+Call it expansion.
+
+⸻
+
+🎯 Objective
+
+Launch a fully playable, monetized arcade platform within the competition window
+— and continue scaling it into a long-term product within the Avalanche ecosystem.
+
+⸻
+
+⚠ Source code remains private during the active competition phase.
 
 <hr>
 
