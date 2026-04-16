@@ -20,11 +20,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Avalanche-Build%20Games%202026-red" />
+  <img src="https://img.shields.io/badge/Pepinho-%20Games%202026-red" />
 </p>
 
 <p align="center">
-🏗 Currently participating in Avalanche Build Games 2026
+Currently building something BIG!
 </p>
 
 ---
