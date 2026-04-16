@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pepinho-%20Games%202026-red" />
+  <img src="https://img.shields.io/badge/Pepinho-%20Games%20-red" />
 </p>
 
 <p align="center">
