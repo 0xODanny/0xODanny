@@ -29,84 +29,62 @@
 
 ---
 
-🔒 Active Build — Avalanche Build Games 2026
+## Active Build
 
-Currently building Red Pepe Arcade for the Avalanche Build Games global competition.
+Currently leading the development of a gaming-focused platform with a small, distributed team.
 
-A six-week sprint to take a product from idea → playable system → real users → monetization — with a live final showcase.
+This is an actively developed product, not a public code experiment.  
+Core work is maintained in private repositories while the system is being built and refined.
 
-This is not just a prototype.
-This is the foundation of a live arcade ecosystem.
+---
 
-⸻
+## Current Focus
 
-🧪 Development Scope (Private)
+- Building a real, usable product from the ground up
+- Iterating quickly while maintaining long-term direction
+- Prioritizing execution, performance, and user experience
+- Expanding beyond early-stage concepts into a scalable platform
 
-All work is currently being developed in private repositories during the competition.
+---
 
-Core focus areas:
+## Development Approach
 
-• Browser-based retro arcade platform (multi-game system)
-• Real-time gameplay loops with competitive mechanics
-• Ranked leaderboards and tournament systems
-• GamePass + dual payment infrastructure (AVAX + PIX)
-• Web2 onboarding via frictionless payments (Brazil focus)
-• Token-aware reward systems ($RPEPE / ecosystem integration)
-• Modular game architecture for rapid game deployment
-• Lightweight, performant rendering pipelines (instant play)
-• Session-based multiplayer and score validation
-• Anti-cheat and deterministic scoring systems
-• Scalable backend for concurrent gameplay sessions
-• Live iteration through active playtesting
+Work is structured around disciplined execution:
 
-⸻
+- fast iteration cycles
+- continuous internal testing
+- outcome-driven milestones
+- private development during active build phases
 
-⚙ Build Structure
+The emphasis is on shipping something that works — and continues to evolve.
 
-Development is executed in fast, outcome-driven milestones:
+---
 
-• Concept → validated through playable demos
-• MVP → live, usable, and monetized
-• System expansion → more games, more loops
-• Go-to-market → Web3 + Web2 user acquisition
-• Final showcase → working arcade with real users
+## Strategic Direction
 
-⸻
+The objective is to build products that can reach beyond niche audiences.
 
-📊 Private Activity Metrics
+Instead of optimizing only for early adopters, the focus is on creating systems that can scale to broader user bases through strong product design, accessibility, and clear value.
 
-• Daily commits across multiple private repositories
-• Rapid iteration cycles (game + platform layers)
-• Active gameplay testing and balancing
-• Payment system integration and validation
-• Infrastructure built for scale, not just demo
+This requires balancing technical execution with real-world usability.
 
-Contribution metrics include private repository activity.
+---
 
-⸻
+## Private Activity
 
-🌎 Strategic Direction
+Most active development is currently taking place in private repositories.
 
-While most builders compete for the same Web3 users,
-this project expands outward.
+This includes ongoing system design, feature development, and product iteration.
 
-• Bringing Web2 users into Avalanche through games
-• Removing friction via familiar payment systems (PIX)
-• Turning casual players into on-chain participants
-• Building a sustainable arcade economy, not a one-off game
+Contribution metrics shown here include private work.
 
-Call it expansion.
+---
 
-⸻
+## Objective
 
-🎯 Objective
+Build and launch a durable product, then continue scaling it over time.
 
-Launch a fully playable, monetized arcade platform within the competition window
-— and continue scaling it into a long-term product within the Avalanche ecosystem.
-
-⸻
-
-⚠ Source code remains private during the active competition phase.
+The focus is not on short-term releases, but on creating something that can sustain growth and remain relevant.
 
 <hr>
 
