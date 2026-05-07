@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">0xODanny's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1154, Total PRs: 2, Total PRs Merged: 2, Merged PRs Percentage: 100.00, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1162, Total PRs: 2, Total PRs Merged: 2, Merged PRs Percentage: 100.00, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 221.71163380007567;
+        stroke-dashoffset: 221.60754311214413;
       }
     }
   
