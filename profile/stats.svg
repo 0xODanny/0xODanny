@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">0xODanny's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2338, Total PRs: 16, Total PRs Merged: 10, Merged PRs Percentage: 62.50, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2339, Total PRs: 16, Total PRs Merged: 11, Merged PRs Percentage: 68.75, Total PRs Reviewed: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 199.2411464542555;
+        stroke-dashoffset: 199.23540587874191;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >10</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >62.50 %</text>
+      >68.75 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
